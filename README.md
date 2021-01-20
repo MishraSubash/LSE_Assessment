@@ -6,9 +6,9 @@
 ## In python:
 
 1.	Create a class to standardize (subtract the mean and divide by standard deviation) an input pandas dataframe.
-    a.	Implement a fit method
-    b.	Implement a transform method
-    c.	Implement an inverse transform method
+   - a.	Implement a fit method
+    -b.	Implement a transform method
+    -c.	Implement an inverse transform method
 2.	Write a unit test for that class to make sure the class correctly standardizes a column of data, and then another unit test to make sure it correctly inverse transforms a column of standardized data.
 3.	Write a function that preprocesses a given string:
     a.	Tokenize the text
